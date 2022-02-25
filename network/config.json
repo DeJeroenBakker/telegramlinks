@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "",
-    "intro": "Interactive graph of hyperlinks shared in Dutch Telegram groups.",
+    "intro": "Interactive graph of hyperlinks shared in Dutch Telegram groups. Size \u003d weighted in-degree.",
     "title": "Hyperlinks Telegram groups"
   },
   "legend": {
